@@ -1,4 +1,2 @@
 This is Dummy file
 master
-feature_1
-feature_1 2
