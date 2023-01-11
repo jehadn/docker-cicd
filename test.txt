@@ -1,3 +1,4 @@
 This is Dummy file
 master
 feature_1
+master 2
